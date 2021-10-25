@@ -2,7 +2,7 @@
      that smart and dearly wants an empty line before a heading to be able to
      display it as such, e.g. website) -->
 
-# Design patterns implemented in Java
+## Design patterns implemented in Java
 
 ![Java CI](https://github.com/iluwatar/java-design-patterns/workflows/Java%20CI/badge.svg)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/iluwatar/java-design-patterns/master/LICENSE.md)
@@ -19,7 +19,7 @@ Read in different language : [**zh**](localization/zh/README.md), [**ko**](local
 
 <br/>
 
-# Introduction
+## Introduction
 
 Design patterns are the best formalized practices a programmer can use to
 solve common problems when designing an application or system.
@@ -59,17 +59,17 @@ of the following approaches
 Hopefully you find the object oriented solutions presented on this site useful
 in your architectures and have as much fun learning them as we had developing them.
 
-# How to contribute
+## How to contribute
 
 If you are willing to contribute to the project you will find the relevant information in
 our [developer wiki](https://github.com/iluwatar/java-design-patterns/wiki). We will help
 you and answer your questions in the [Gitter chatroom](https://gitter.im/iluwatar/java-design-patterns).
 
-# License
+## License
 
 This project is licensed under the terms of the MIT license.
 
-# Contributors
+## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
